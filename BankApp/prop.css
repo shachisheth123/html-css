@@ -1,0 +1,77 @@
+#container1
+{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+.mywidth
+{
+    width:30%;
+    border: 1PX SOLID RED;
+}
+.nav-item a
+{
+
+color:aliceblue;
+}
+
+.mpadding
+{
+    padding-top: 20px;  
+}
+
+.form-group
+{
+    margin: 25px 50px 25px 75px;
+
+}
+
+.dropdown
+{
+   margin: 25px 50px 25px 75px;
+}
+
+.title1
+{
+margin-left: 500px;
+font-weight: bold;
+height: 50px;
+font-size: 30px;
+
+}
+.footer14 p
+{
+
+    margin-bottom: 300px;
+}
+
+.footer13
+{
+    background-color: black;
+    
+}
+
+.footer13 p
+{
+   color: aliceblue;
+   margin-left: 500px;
+    
+}
+
+.footer1
+{
+    background-color: black;
+    margin-bottom: 10px;
+    
+}
+
+.footer1 p
+{
+   color: aliceblue;
+   margin-left: 500px;
+    
+}
+

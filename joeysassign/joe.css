@@ -1,0 +1,86 @@
+body{
+
+    background-color: bisque;
+}
+.navbar-default {
+    background-color: bisque;
+  
+}
+
+h1{
+  color: yellowgreen;
+  font-style: italic;
+}
+
+.myfooter{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+.img-container
+{
+/* float:none; */
+  /* width: 20%;  */
+  height: 40%;    /* 2 boxes */
+ /* space between the images */
+}
+
+.img1
+{
+  height : 500px;
+  width : 1050px;
+ float: right;
+}
+
+
+.nav-item 
+{
+float: right;
+
+}
+
+.heading{
+margin-top:-300px;
+float: right;
+color: azure;
+width: 100%;
+padding-left: 400px;
+
+}
+
+/* .navbar
+{
+float: right;
+
+} */
+
+.form-group row
+{
+
+  border: red;
+
+}
+
+.box
+{
+margin-left: 50px;
+background-color: white;
+width:1000px;
+border:1px solid red;
+margin-bottom: 1200px;
+
+}
+
+.box p{
+
+  font-size: 15px;
+  
+}
+
+.redbox{
+background-color: red;
+width: 445px;
+margin-top: 60px;
+
+}
